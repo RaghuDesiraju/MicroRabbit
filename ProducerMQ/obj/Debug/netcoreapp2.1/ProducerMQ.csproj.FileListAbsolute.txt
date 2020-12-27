@@ -1,0 +1,11 @@
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\bin\Debug\netcoreapp2.1\ProducerMQ.deps.json
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\bin\Debug\netcoreapp2.1\ProducerMQ.runtimeconfig.json
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\bin\Debug\netcoreapp2.1\ProducerMQ.runtimeconfig.dev.json
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\bin\Debug\netcoreapp2.1\ProducerMQ.dll
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\bin\Debug\netcoreapp2.1\ProducerMQ.pdb
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\obj\Debug\netcoreapp2.1\ProducerMQ.csprojAssemblyReference.cache
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\obj\Debug\netcoreapp2.1\ProducerMQ.csproj.CoreCompileInputs.cache
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\obj\Debug\netcoreapp2.1\ProducerMQ.AssemblyInfoInputs.cache
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\obj\Debug\netcoreapp2.1\ProducerMQ.AssemblyInfo.cs
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\obj\Debug\netcoreapp2.1\ProducerMQ.dll
+C:\Users\Ragha\RabbitMQSample\ProducerMQ\obj\Debug\netcoreapp2.1\ProducerMQ.pdb
